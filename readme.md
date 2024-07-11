@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manujayak-hub" alt="manujayak-hub" /></a> </p>
 
-- 🌱 I’m currently learning **MERN and Next.js**
-
+- 🌱 I’m currently learning **To master MERN stack**
+- 🤝 I’m looking to collaborate on **MERN projects**
 - 📫 How to reach me **manujayak8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
