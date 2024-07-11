@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Manujaya Kamburugamuwa<img width="30px" src="https://tenor.com/view/bromita-gif-6356269330350550267"></h1>
+<h1 align="center">Hi I'm Manujaya Kamburugamuwa<img width="30px" src="[https://tenor.com/view/bromita-gif-6356269330350550267](https://tenor.com/view/bromita-gif-6356269330350550267)"></h1>
 <h3 align="center" font-size="20">Student and Passionate Full Stack Developer</h3>
 
 <p align="center">
