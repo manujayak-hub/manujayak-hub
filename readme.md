@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Manujaya Kamburugamuwa</h1>
-<h3 align="center">Student and Passionate Full Stack Developer</h3>
+<h1 align="center">Hi I'm Manujaya Kamburugamuwa<img width="30px" src="https://tenor.com/view/bromita-gif-6356269330350550267"></h1>
+<h3 align="center" font-size="20">Student and Passionate Full Stack Developer</h3>
 
 <p align="center">
-  🌱 Currently mastering the <strong>MERN stack</strong><br>
-  🤝 Open to collaborating on <strong>MERN projects</strong><br>
+  🌱 Currently mastering the <strong>MERN Stack</strong><br>
+  🤝 Open to collaborating on <strong>MERN Projects</strong><br>
   📫 Reach me at <a href="mailto:manujayak8@gmail.com">manujayak8@gmail.com</a>
 </p>
 
---
+<h1 align="center">Hi, I'm Rasanga Lakshith<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h3 font-size="20" align="center">passionate full-stack developer</h3>
+
+
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
