@@ -7,10 +7,6 @@
   📫 Reach me at <a href="mailto:manujayak8@gmail.com">manujayak8@gmail.com</a>
 </p>
 
-<h1 align="center">Hi, I'm Rasanga Lakshith<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">passionate full-stack developer</h3>
-
-
 ---
 
 <h3 align="center">Connect with me:</h3>
