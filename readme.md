@@ -7,7 +7,7 @@
   📫 Reach me at <a href="mailto:manujayak8@gmail.com">manujayak8@gmail.com</a>
 </p>
 
----
+--
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
