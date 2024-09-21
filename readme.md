@@ -2,8 +2,8 @@
 <h3 align="center" font-size="20">Student and Passionate Full Stack Developer</h3>
 
 <p align="center">
-  🌱 Currently mastering the <strong>MERN Stack</strong><br>
-  🤝 Open to collaborating on <strong>MERN Projects</strong><br>
+  🌱 Currently mastering the <strong>nest.js</strong><br>
+  🤝 Open to collaborating on <strong>Projects</strong><br>
   📫 Reach me at <a href="mailto:manujayak8@gmail.com">manujayak8@gmail.com</a>
 </p>
 
